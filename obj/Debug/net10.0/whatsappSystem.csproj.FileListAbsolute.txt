@@ -1,8 +1,9 @@
+E:\whatsappSystem\whatsappSystem\obj\Debug\net10.0\whatsappSystem.csproj.AssemblyReference.cache
 E:\whatsappSystem\whatsappSystem\obj\Debug\net10.0\whatsappSystem.GeneratedMSBuildEditorConfig.editorconfig
 E:\whatsappSystem\whatsappSystem\obj\Debug\net10.0\whatsappSystem.AssemblyInfoInputs.cache
 E:\whatsappSystem\whatsappSystem\obj\Debug\net10.0\whatsappSystem.AssemblyInfo.cs
 E:\whatsappSystem\whatsappSystem\obj\Debug\net10.0\whatsappSystem.csproj.CoreCompileInputs.cache
-E:\whatsappSystem\whatsappSystem\obj\Debug\net10.0\whatsappSystem.csproj.AssemblyReference.cache
+E:\whatsappSystem\whatsappSystem\obj\Debug\net10.0\whatsappSystem.sourcelink.json
 E:\whatsappSystem\whatsappSystem\bin\Debug\net10.0\whatsappSystem.exe
 E:\whatsappSystem\whatsappSystem\bin\Debug\net10.0\whatsappSystem.deps.json
 E:\whatsappSystem\whatsappSystem\bin\Debug\net10.0\whatsappSystem.runtimeconfig.json
